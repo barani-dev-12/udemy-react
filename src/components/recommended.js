@@ -12,28 +12,28 @@ function Recommended(){
       <p className="recommended_instruction">Pick the Best Fit</p>
       <div className="recommended_container">
         <div className="course_card">
-        <img src={image_one} alt="Course Image"></img>
+        <img src={image_one} alt="Data Science Course Image"></img>
         <h3>2023 Python Data Visualization Masterclass</h3>
         <p>Course by: Col Steele</p>
         <p>4.9 ⭐⭐⭐⭐</p>
         <p>₹499 <del>₹1999</del></p>
       </div>
       <div className="course_card">
-        <img src={image_two} alt="Course Image"></img>
+        <img src={image_two} alt="Advanced Course Image"></img>
         <h3>Basic to Advanced programming with EMC</h3>
         <p>Course by: Col Steele</p>
         <p>4.9 ⭐⭐⭐⭐</p>
         <p>₹499 <del>₹1999</del></p>
       </div>
       <div className="course_card">
-        <img src={image_three} alt="Course Image"></img>
+        <img src={image_three} alt="Web dev Course Image"></img>
         <h3>Web Development Bootcamp</h3>
         <p>Course by: Col Steele</p>
         <p>4.9 ⭐⭐⭐⭐</p>
         <p>₹499 <del>₹1999</del></p>
       </div>
       <div className="course_card">
-        <img src={image_four} alt="Course Image"></img>
+        <img src={image_four} alt="UI/UX Course Image"></img>
         <h3>Master UI/UX Designing with Figma</h3>
         <p>Course by: Col Steele</p>
         <p>4.9 ⭐⭐⭐⭐</p>
