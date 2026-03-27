@@ -18,7 +18,7 @@ function Popular(){
       <div className="popular-container">
 
         <div className="course_card">
-          <img src={Popular_1} alt="Python Course Image" />
+          <img src={Popular_1} alt="Python Course" />
           <h3>The Complete Python Bootcamp From Zero to Hero in Python</h3>
           <p>Course by: Jose Portilla, Pierian Training</p>
           <p>4.6 ⭐⭐⭐⭐</p>
@@ -26,7 +26,7 @@ function Popular(){
         </div>
 
         <div className="course_card">
-          <img src={Popular_2} alt="Bootcamp Course Image" />
+          <img src={Popular_2} alt="Bootcamp Course" />
           <h3>100 Days of Code™: The Complete Python Pro Bootcamp</h3>
           <p>Course by: Dr. Angela Yu</p>
           <p>4.7 ⭐⭐⭐⭐</p>
@@ -34,7 +34,7 @@ function Popular(){
         </div>
 
         <div className="course_card">
-          <img src={Popular_3} alt="Redux Course Image" />
+          <img src={Popular_3} alt="Redux Course" />
           <h3>React - The Complete Guide (incl. Next.js, Redux)</h3>
           <p>Course by: Maximilian Schwarzmüller</p>
           <p>4.7 ⭐⭐⭐⭐</p>
@@ -42,7 +42,7 @@ function Popular(){
         </div>
 
         <div className="course_card">
-          <img src={Popular_4} alt="Zero to Expert Course Image" />
+          <img src={Popular_4} alt="Zero to Expert Course " />
           <h3>The Complete JavaScript Course 2025: From Zero to Expert!</h3>
           <p>Course by: Jonas Schmedtmann</p>
           <p>4.9 ⭐⭐⭐⭐</p>
@@ -50,7 +50,7 @@ function Popular(){
         </div>
 
         <div className="course_card">
-          <img src={Popular_5} alt="AI Engineer Course Image" />
+          <img src={Popular_5} alt="AI Engineer Course" />
           <h3>The AI Engineer Course 2026: Complete AI Engineer Bootcamp</h3>
           <p>Course by: 365 Coders</p>
           <p>4.8 ⭐⭐⭐⭐</p>
@@ -58,7 +58,7 @@ function Popular(){
         </div>
 
         <div className="course_card">
-          <img src={Popular_6} alt="Graphic Course Image" />
+          <img src={Popular_6} alt="Graphic Course" />
           <h3>Graphic Design Masterclass - Learn GREAT Design</h3>
           <p>Course by: Lindsay Marsh</p>
           <p>4.5 ⭐⭐⭐⭐</p>
@@ -66,7 +66,7 @@ function Popular(){
         </div>
 
         <div className="course_card">
-          <img src={Popular_7} alt="Angular Course Image" />
+          <img src={Popular_7} alt="Angular Course" />
           <h3>Redux in Angular (2 and 4+)</h3>
           <p>Course by: Mosh Hamedani</p>
           <p>4.9 ⭐⭐⭐⭐</p>
@@ -74,7 +74,7 @@ function Popular(){
         </div>
 
         <div className="course_card">
-          <img src={Popular_8} alt="React Course Image" />
+          <img src={Popular_8} alt="React Course" />
           <h3>Custom React Hooks Crash Course: Learn Hooks Through 6 Apps</h3>
           <p>Course by: Akos Komuves</p>
           <p>4.6 ⭐⭐⭐⭐</p>
